@@ -1,6 +1,6 @@
 const LinksSocialMedia = {
   github: 'FranciscoAraujo95',
-  youtube: 'UCCR4VNfuRs4pm7JHSWKgv9Q',
+  youtube: 'channel/UCCR4VNfuRs4pm7JHSWKgv9Q',
   facebook: 'francisco.hydglan5',
   instagram: 'fcohydglan',
   twitter: '@FHydglan'
